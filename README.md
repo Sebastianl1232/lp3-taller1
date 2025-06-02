@@ -1,3 +1,16 @@
+# Datos del Estudiante
+
+Jhon Sebastian Lema Montoya
+CC: 1.108.560.466
+
+# Mejora que se implemento
+
+**Funcionalidades adicionales**
+
+- Añadir búsqueda y filtrado.
+- Implementar paginación.
+- Añadir endpoints para obtener todos los videos.
+
 # API de Videos
 
 Esta es una API RESTful para gestión de videos, desarrollada con Flask, Flask-RESTful y SQLAlchemy.
